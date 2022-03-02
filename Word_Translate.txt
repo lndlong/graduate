@@ -1,0 +1,61 @@
+reliable		可靠性
+accurate		正确
+prediction	预测
+time series plays
+crucial role 
+maritime industry
+such as
+ economic investment
+transportation planning
+port planning
+design
+so on
+dynamic growth
+maritime time series
+predominantly
+complex
+nonlinear
+non-stationary
+propertie
+guaran- tee high-quality
+performance
+propose
+adopt
+empirical mode decomposition (EMD)
+methods
+decompose
+components
+directly
+traditional neural network (NN) methods
+due to
+properties
+regularity
+advantage
+inherent
+self-similarities
+components
+divided
+several
+overlapping
+segments
+segments
+proper
+training
+datasets
+traditional
+regrouping
+strategy
+assist
+enhancing
+prediction
+obtained
+integrating
+benefit
+decomposition
+segments
+experiments
+throughput
+illustrated
+superior
+accuracy
+robustness.
