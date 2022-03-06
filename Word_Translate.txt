@@ -12,12 +12,12 @@ port planning	港口规则
 design		设计
 so on		如此这些
 dynamic growth	动态+生长
-predominantly	重要&正确
+predominantly	绝大多数、主要的
 complex		复杂
 nonlinear		non+line
 non-stationary	stationary->no moving 
 propertie		性质  |  财产
-guarantee	保证
+guarantee		保证
 high-quality	high-质量
 performance	性能卓越——adj.
 propose		提议
