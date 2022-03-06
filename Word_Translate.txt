@@ -1,61 +1,59 @@
+* Abstract
 reliable		可靠性
-accurate		正确
+accurate		正确_adj
 prediction	预测
-time series plays
-crucial role 
-maritime industry
-such as
- economic investment
-transportation planning
-port planning
-design
-so on
-dynamic growth
-maritime time series
-predominantly
-complex
-nonlinear
-non-stationary
-propertie
-guaran- tee high-quality
-performance
-propose
-adopt
+time series plays	时间序列plays
+crucial role 	重要规则
+maritime industry	海事行业
+such as		例如
+economic investment	经济投资
+transportation planning	运输规则
+port planning	港口规则
+design		设计
+so on		如此这些
+dynamic growth	动态+生长
+predominantly	重要&正确
+complex		复杂
+nonlinear		non+line
+non-stationary	stationary->no moving 
+propertie		性质  |  财产
+guarantee	保证
+high-quality	high-质量
+performance	性能卓越——adj.
+propose		提议
+adopt		采纳
 empirical mode decomposition (EMD)
-methods
-decompose
-components
-directly
-traditional neural network (NN) methods
-due to
-properties
-regularity
-advantage
-inherent
-self-similarities
-components
-divided
-several
-overlapping
-segments
-segments
-proper
-training
-datasets
-traditional
-regrouping
-strategy
-assist
-enhancing
-prediction
-obtained
-integrating
-benefit
-decomposition
-segments
-experiments
-throughput
-illustrated
-superior
-accuracy
-robustness.
+		经验模态分解
+ensemble EMD	集合
+methods		方法
+components	零件
+directly		直接
+traditional 	传统
+neural network (NN) 	神经+网络
+due to		由于
+regularity		规律
+advantage	优势
+inherent		固有
+self-similarities	自己-相似之处
+divided		分开
+several		不同
+overlapping	重叠
+segments		段
+proper		恰当
+training		训练
+datasets		数据集集合         
+regrouping	重组
+strategy		策略、策划
+assist		协助
+enhancing	增强
+obtained		获得
+integrating	整合
+frameworks	框架
+benefit		益处
+decomposition	分解
+experiments	实验
+throughput	吞吐量
+illustrated		说明
+superior		优越
+accuracy		准确_n.
+robustness.	鲁棒性、健壮性
